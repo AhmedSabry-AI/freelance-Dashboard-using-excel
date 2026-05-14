@@ -6,6 +6,8 @@ Tools Used:
 Microsoft Excel
 Power Query
 Pivot Tables
+
+
 Key Features:
 Interactive and dynamic filters for better data exploration
 Sales performance analysis and KPI tracking
