@@ -3,7 +3,6 @@ Sales Dashboard for Sales Analysis & Business Insights
 Interactive Sales Dashboard built using Microsoft Excel to analyze sales performance, track orders, and monitor key business metrics. The dashboard provides valuable insights through clear KPIs such as Total Sales, Total Orders, Average Selling Price, Best Sellers, and Sales by Platform. Dynamic filters and visualizations make data exploration easier and support effective business analysis.
 
 Tools Used:
-
 Microsoft Excel
 Power Query
 Pivot Tables
