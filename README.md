@@ -1,50 +1,19 @@
-Excel Data Analysis Project
-📌 Project Overview
+Sales Dashboard for Sales Analysis & Business Insights
 
-This project focuses on transforming raw sales data into a structured, interactive Excel dashboard that provides clear visibility into business performance and operational efficiency.
-The main objective was not just visualization — but building a reliable analytical foundation through rigorous data cleaning, transformation, and KPI modeling.
+Interactive Sales Dashboard built using Microsoft Excel to analyze sales performance, track orders, and monitor key business metrics. The dashboard provides valuable insights through clear KPIs such as Total Sales, Total Orders, Average Selling Price, Best Sellers, and Sales by Platform. Dynamic filters and visualizations make data exploration easier and support effective business analysis.
 
-🎯 Business Problem
-
-The dataset contained inconsistencies that could lead to misleading insights, including:
-Duplicate and inconsistent region names
-Missing values
-Non-standardized geographic classification
-Data formatting issues affecting aggregation accuracy
-Without proper cleaning, performance metrics such as sales distribution and delivery rates would be inaccurate.
-
-🧹 Data Cleaning & Preparation (Core Phase – ~70% of the Project)
-
-The majority of the effort was dedicated to data preprocessing to ensure analytical integrity:
-Removed duplicated and inconsistent region labels
-Standardized geographic mapping (e.g., mapping “6 October” under “Giza”)
-Handled missing values appropriately
-Ensured consistent data types for calculations
-Validated totals before and after transformation
-This phase ensured that all KPIs were built on trustworthy data.
-
-📊 Key Performance Indicators (KPIs)
-The dashboard provides insights into:
-
-Total Sales
-Total Orders
-Sales Breakdown by Product
-Sales Distribution by Region
-Performance by Platform
-
-🛠 Tools & Techniques Used
-
+Tools Used:
 Microsoft Excel
+Power Query
 Pivot Tables
-Data Cleaning & Transformation
-KPI Calculation
-Interactive Slicers
-Data Modeling & Aggregation Logic
+Key Features:
+Interactive and dynamic filters for better data exploration
+Sales performance analysis and KPI tracking
+Total Sales, Total Orders, and Average Selling Price insights
+Sales analysis by platform
+Best seller tracking and performance monitoring
+Order distribution analysis by area/location
+Clean, modern, and user-friendly dashboard design
+Easy-to-understand visual reports for decision making
 
-📈 Business Value
-
-This dashboard enables decision-makers to:
-Identify top-performing products and regions
-Monitor operational efficiency through OTD rate
-Detect performance gaps across platforms
-Make data-driven strategic decisions
+This dashboard helps businesses monitor performance, gain actionable insights, and make smarter decisions to improve growth and profitability.
